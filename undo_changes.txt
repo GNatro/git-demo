@@ -1,3 +1,4 @@
 testing git reset --soft commands 1 
 testing git reset --hard commands 2
 testing git reset --mixed command 3
+testing git reset --mixed command 5
